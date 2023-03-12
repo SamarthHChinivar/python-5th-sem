@@ -1,5 +1,5 @@
 # Python Basics
-Python Basics learnt/ excercised during RedTron Internship.
+Python Basics learnt/excercised during RedTron Internship.
 
 ## Contents:
 <hr/>
