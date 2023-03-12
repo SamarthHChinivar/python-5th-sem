@@ -1,4 +1,4 @@
-# python-basics
+# Python Basics
 
 ## Contents:
 <hr/>
